@@ -20,7 +20,7 @@
         <table>
             <thead>
                 <tr>
-                    <th>Nama</th>
+                    <th>Name</th>
                     <th>Quantity</th>
                     <th>Description</th>
                     <th>Actions</th>
